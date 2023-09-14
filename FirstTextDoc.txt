@@ -1,2 +1,2 @@
-\This is firs text document.
-I have two files
+This is firs text document!
+I have two files!
